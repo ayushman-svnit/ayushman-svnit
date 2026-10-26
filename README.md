@@ -97,7 +97,7 @@ const ayushman = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushman-svnit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushman-svnit&theme=tokyonight&hide_border=true" height="170" alt="streak stats" />
 </div>
@@ -105,6 +105,11 @@ const ayushman = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman-svnit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" height="170" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushman-svnit&theme=tokyo-night&hide_border=true&area=true" height="170" alt="activity graph" />
+</div> -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushman-svnit&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ayushman-svnit&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman-svnit&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ---
