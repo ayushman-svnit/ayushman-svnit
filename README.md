@@ -19,8 +19,8 @@
 const ayushman = {
     location: "NIT Surat, Gujarat 🇮🇳",
     education: "B.Tech in Computer Science & Engineering",
-    currentYear: "Sophomore | CGPA: 8.67/10.0",
-    interests: ["Full Stack Development", "AI/ML", "Computer Vision", "Cloud Computing"],
+    currentYear: "Junior",
+    interests: ["Full Stack Development", "AI/ML", "Computer Vision"],
     currentlyWorking: "Building scalable web applications with modern tech stacks",
     lookingFor: "Software Engineering Internship opportunities",
     funFact: "I turn coffee into code and bugs into features! ☕️"
