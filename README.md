@@ -17,7 +17,6 @@
 
 ```typescript
 const ayushman = {
-    location: "NIT Surat, Gujarat 🇮🇳",
     education: "B.Tech in Computer Science & Engineering",
     currentYear: "Junior",
     interests: ["Full Stack Development", "AI/ML", "Computer Vision"],
